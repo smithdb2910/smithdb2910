@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and further development in AI.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/smarkie?tab=repositories](https://github.com/smarkie?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/smarkie?tab=repositories](https://github.com/smithdb2910?tab=repositories)
 
 - 🎥 In my leisure I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube. I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube.
 
