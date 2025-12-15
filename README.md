@@ -1,5 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Smith Dbritto</h1>
 <h3 align="center">A passionate software developer from London</h3>
+Previous account: https://github.com/smarkie?tab=repositories; Unable to access due to github account issue.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarkie&label=Profile%20views&color=0e75b6&style=flat" alt="smarkie" /> </p>
 
