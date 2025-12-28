@@ -9,8 +9,6 @@ Previous account: https://github.com/smarkie?tab=repositories; Unable to access 
 
 - 👨‍💻 All of my projects are available at [https://github.com/smarkie?tab=repositories](https://github.com/smarkie?tab=repositories)
 
-- 🎥 In my leisure I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube. I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube.
-
 - 💬 Ask me about **Java, C++, HTML, PHP, MySQL are some of my strongsuits**
 
 - 📫 How to reach me **smithdb2910@gmail.com**
@@ -19,4 +17,4 @@ Previous account: https://github.com/smarkie?tab=repositories; Unable to access 
 
 - 📄 Know about my experiences [https://github.com/smarkie/CV/blob/main/CV-%20Smith%20Dbritto.pdf](https://github.com/smarkie/CV/blob/main/Smith%20Dbritto%20CV.pdf)
 
-- ⚡ Fun fact **I possess a diverse range of creative skills, including proficiency in keyboard performance and a passion for visual arts, where I specialize in drawing and painting. I find joy in expressing my creativity through both musical and visual mediums, allowing me to explore and communicate my artistic vision in unique and compelling ways.**
+- 🎥 In my leisure I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube. I specialize in video post-production for online content, with a focus on crafting and refining engaging video content for various platforms, including YouTube.
